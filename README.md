@@ -5,7 +5,7 @@ Sklearn.preprocessing, cluster, mixture, neighbors, manifold
 
 matplotlib.pyplot, seaborn, mpl_toolkits.mplot3d.Axes3D, plotly.express, zipfile.ZipFile
 
-:arrow_down: [read notebook](README.md###Read)
+:arrow_down: [read notebook](README.md#read-ipynb)
 <hr>
 <p> </p>
 
@@ -86,7 +86,7 @@ The best results at determining the body type and view angle were obtained on th
 Labels of different models coincides at the most. To label zones with ambiguous markup it could be effective take results of different models depending of the zone. For example, `GaussianMixture` labels works better at the rear/front view boundary while `KMeans` looks better in total.
 <br>
 
-:arrow_up: [to begin](README.md##Skillfactory)
+:arrow_up: [to begin](README.md#skillfactory-data-science-project)
 
 <br><br>
 Star ⭐️⭐️⭐️⭐️️⭐️ my project if you like it or think it is useful
